@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynzulak&label=Profile%20views&color=0e75b6&style=flat" alt="ynzulak" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+  
+  ###### Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynzulak&show_icons=true&theme=dark&title_color=355569&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="ynzulak" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ynzulak&show_icons=true&theme=dark&title_color=355669&text_color=ffffff&bg_color=151515&locale=en" alt="ynzulak" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynzulak&theme=dark" alt="ynzulak" /></p>
 
   ###### Projects
