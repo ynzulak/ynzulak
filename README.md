@@ -1,3 +1,4 @@
+<div id="header" align="center">
 [![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynzulak&label=Profile%20views&color=0e75b6&style=flat" alt="ynzulak" /> </p>
@@ -15,4 +16,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynzulak&theme=dark" alt="ynzulak" /></p>
 
+  ###### Projects
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Evolutionary-AI&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/ynzulak/Electronic-potencial-rtv-website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Game-Recommendation&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Game-Recommendation)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Leauge-Of-Legends-Win-Prediction-AI&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Leauge-Of-Legends-Win-Prediction-AI)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=TooGoodToGo-Scraper&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/TooGoodToGo-Scraper)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Personality-Predict&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Personality-Predict)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
+</div>
 
