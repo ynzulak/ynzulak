@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)]
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi 👋, I'm ynzulak</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
