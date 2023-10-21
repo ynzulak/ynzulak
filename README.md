@@ -8,9 +8,9 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynzulak&show_icons=true&theme=dark&title_color=355569&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="ynzulak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ynzulak&show_icons=true&theme=dark&title_color=355669&text_color=ffffff&bg_color=151515&locale=en" alt="ynzulak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynzulak&show_icons=true&theme=dark&title_color=355669&text_color=ffffff&bg_color=151515&locale=en" alt="ynzulak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynzulak&show_icons=true&theme=dark&title_color=355569&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="ynzulak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynzulak&theme=dark" alt="ynzulak" /></p>
 
