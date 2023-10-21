@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-React-1b2638?style=flat-square&logo=react&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-Git-1b2638?style=flat-square&logo=git&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-Next.js-1b2638?style=flat-square&logo=nextjs&logoColor=4fa0b0"/>   
-    <img src="https://img.shields.io/badge/-REST-API-1b2638?style=flat-square&logo=&logoColor=4fa0b0"/>   
+    <img src="https://img.shields.io/badge/-RESTAPI-1b2638?style=flat-square&logo=&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-Bootstrap-1b2638?style=flat-square&logo=bootstrap&logoColor=4fa0b0"/>   
    </p>
 
