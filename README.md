@@ -4,6 +4,8 @@
  ###### Skills
   
   <p>
+    <img src="https://img.shields.io/badge/-html5-1b2638?style=flat-square&logo=HTMLt&logoColor=4fa0b0"/>   
+    <img src="https://img.shields.io/badge/-javascript-1b2638?style=flat-square&logo=javascript&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-javascript-1b2638?style=flat-square&logo=javascript&logoColor=4fa0b0"/>   
    </p>
 
