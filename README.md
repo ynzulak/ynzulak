@@ -18,7 +18,7 @@
 
   ###### Projects
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Evolutionary-AI&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/ynzulak/Electronic-potencial-rtv-website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzulak&repo=Electronic-potencial-rtv-website&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/ynzulak/Electronic-potencial-rtv-website)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Game-Recommendation&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Game-Recommendation)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Leauge-Of-Legends-Win-Prediction-AI&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Leauge-Of-Legends-Win-Prediction-AI)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=TooGoodToGo-Scraper&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/TooGoodToGo-Scraper)
