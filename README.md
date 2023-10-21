@@ -1,12 +1,11 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <div id="header" align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ynzulak&label=Profile%20views&color=0e75b6&style=flat" alt="ynzulak" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ynzulak&label=Profile%20views&color=0e75b6&style=flat" alt="ynzulak" />
 
-  
   ###### Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynzulak&show_icons=true&theme=dark&title_color=355569&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="ynzulak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynzulak&show_icons=true&theme=dark&title_color=739395&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="ynzulak" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynzulak&theme=dark" alt="ynzulak" /></p>
 
   ###### Projects
