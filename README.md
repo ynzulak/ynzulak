@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-1b2638?style=flat-square&logo=typescript&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-React-1b2638?style=flat-square&logo=react&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-Git-1b2638?style=flat-square&logo=git&logoColor=4fa0b0"/>   
+    <img src="https://img.shields.io/badge/-GitHub-1b2638?style=flat-square&logo=github&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-Next.js-1b2638?style=flat-square&logo=nextjs&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-RESTAPI-1b2638?style=flat-square&logo=&logoColor=4fa0b0"/>   
     <img src="https://img.shields.io/badge/-SteamAPI-1b2638?style=flat-square&logo=steam&logoColor=4fa0b0"/>   
